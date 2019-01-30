@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points xmlns="http://www.multicube.eu/" version="1.3" block="travel">
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.05"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0102887"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.1"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0210394"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.125"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0242785"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.15"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.031746"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.175"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.2"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.225"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.25"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.275"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="100"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.3"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0358685"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.05"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0059798"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.1"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0116702"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.125"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0145073"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.15"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0161192"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.175"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.2"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.225"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.25"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.275"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="300"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.3"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.02017"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.05"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0032964"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.1"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00637687"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.125"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00779847"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.15"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00903558"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.175"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0106561"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.2"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0112759"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.225"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0112759"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.25"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0112759"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.275"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0112759"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="1000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.3"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.0112759"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.05"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00193215"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.1"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00361344"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.125"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00425701"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.15"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00510303"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.175"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00609226"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.2"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00634508"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.225"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00634508"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.25"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00634508"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.275"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00634508"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+	<point>
+		<parameters>
+			<parameter name="num_samples" value="3000"/>
+		</parameters>
+		<features> 
+			<feature name="unpredictability" value="0.3"/>
+		</features>
+		<system_metrics> 
+			<system_metric name="error" value="0.00634508"/>
+			<system_metric name="validate_time_us" value="1000"/>
+		</system_metrics>
+	 </point>
+</points>

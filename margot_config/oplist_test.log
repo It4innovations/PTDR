@@ -1,0 +1,559 @@
+Using ROOT: /scratch/work/user/mgolas/AntarexIT4I
+Probabilistic time-dependent routing
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 0 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 0 at 8:0
+Loading data...OK
+Elapsed time: 3398 ms
+Runnning simulation...used samples: 100
+sample dev: 1324.52  mean: 14181.4  variation coeff.: 0.0933987
+Percentiles: 
+5% 12035.5
+10% 12514
+25% 13431.6
+50% 14176.2
+75% 14976.7
+90% 16210.4
+95% 16651
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 1 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 1 at 8:0
+Loading data...OK
+Elapsed time: 1098 ms
+Runnning simulation...used samples: 100
+sample dev: 1122.65  mean: 14199.9  variation coeff.: 0.0790603
+Percentiles: 
+5% 12525.1
+10% 12754.3
+25% 13473.7
+50% 14148.5
+75% 14806.8
+90% 15653
+95% 16197.5
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 2 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 2 at 8:0
+Loading data...OK
+Elapsed time: 1100 ms
+Runnning simulation...used samples: 100
+sample dev: 1148.3  mean: 13857.3  variation coeff.: 0.0828659
+Percentiles: 
+5% 12325.5
+10% 12502.2
+25% 13229.2
+50% 13882.7
+75% 14561.4
+90% 15470.9
+95% 15770.4
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 3 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 3 at 8:0
+Loading data...OK
+Elapsed time: 1106 ms
+Runnning simulation...used samples: 100
+sample dev: 1127.01  mean: 13752.5  variation coeff.: 0.0819493
+Percentiles: 
+5% 12235.1
+10% 12334.2
+25% 12964
+50% 13726.5
+75% 14410.5
+90% 15268.3
+95% 15769.3
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 4 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 4 at 8:0
+Loading data...OK
+Elapsed time: 1129 ms
+Runnning simulation...used samples: 100
+sample dev: 1187.55  mean: 13726.9  variation coeff.: 0.0865127
+Percentiles: 
+5% 12053.9
+10% 12277.9
+25% 12944.2
+50% 13672.5
+75% 14440.1
+90% 15381.3
+95% 15798.9
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 5 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 5 at 8:0
+Loading data...OK
+Elapsed time: 1120 ms
+Runnning simulation...used samples: 100
+sample dev: 1128.01  mean: 13979.4  variation coeff.: 0.0806908
+Percentiles: 
+5% 12345.1
+10% 12544.2
+25% 13157.1
+50% 13970.1
+75% 14793.3
+90% 15323.2
+95% 16279.1
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 6 -h 8 -m 0
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 6 at 8:0
+Loading data...OK
+Elapsed time: 1100 ms
+Runnning simulation...used samples: 100
+sample dev: 1121.1  mean: 13955.4  variation coeff.: 0.0803344
+Percentiles: 
+5% 12167.6
+10% 12505.8
+25% 13289.8
+50% 13891.6
+75% 14692.9
+90% 15541.2
+95% 15812.6
+
+Writing result...OK
+Using ROOT: /scratch/work/user/mgolas/AntarexIT4I
+Probabilistic time-dependent routing
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 0 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 0 at 12:30
+Loading data...OK
+Elapsed time: 1288 ms
+Runnning simulation...used samples: 100
+sample dev: 1296.14  mean: 16759.9  variation coeff.: 0.0773359
+Percentiles: 
+5% 14477.6
+10% 15111.6
+25% 15864.7
+50% 16849.1
+75% 17643.1
+90% 18299.9
+95% 18691.5
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 1 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 1 at 12:30
+Loading data...OK
+Elapsed time: 1103 ms
+Runnning simulation...used samples: 100
+sample dev: 1451.19  mean: 16849.3  variation coeff.: 0.0861274
+Percentiles: 
+5% 14082.6
+10% 15000
+25% 16080.3
+50% 16922.2
+75% 17800.6
+90% 18616.6
+95% 19086.3
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 2 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 2 at 12:30
+Loading data...OK
+Elapsed time: 1113 ms
+Runnning simulation...used samples: 100
+sample dev: 1466.72  mean: 16389.4  variation coeff.: 0.0894922
+Percentiles: 
+5% 14060.9
+10% 14529.9
+25% 15351.6
+50% 16443.9
+75% 17477
+90% 18229.7
+95% 18806.9
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 3 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 3 at 12:30
+Loading data...OK
+Elapsed time: 1129 ms
+Runnning simulation...used samples: 100
+sample dev: 1411.63  mean: 16079.4  variation coeff.: 0.0877914
+Percentiles: 
+5% 13526.4
+10% 14329.2
+25% 15203.7
+50% 16113.9
+75% 17081.8
+90% 17722.5
+95% 18393.6
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 4 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 4 at 12:30
+Loading data...OK
+Elapsed time: 1083 ms
+Runnning simulation...used samples: 100
+sample dev: 1381.47  mean: 16315.3  variation coeff.: 0.0846729
+Percentiles: 
+5% 14273.1
+10% 14916.6
+25% 15382.5
+50% 16428.2
+75% 17122.5
+90% 18308.2
+95% 18471
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 5 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 5 at 12:30
+Loading data...OK
+Elapsed time: 1109 ms
+Runnning simulation...used samples: 100
+sample dev: 1332.44  mean: 13940.7  variation coeff.: 0.095579
+Percentiles: 
+5% 11992
+10% 12332.6
+25% 12961.7
+50% 14033.3
+75% 14903.1
+90% 15725.2
+95% 15876.6
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 6 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 6 at 12:30
+Loading data...OK
+Elapsed time: 1097 ms
+Runnning simulation...used samples: 100
+sample dev: 1376.58  mean: 13383.3  variation coeff.: 0.102858
+Percentiles: 
+5% 11279.8
+10% 11593.6
+25% 12507.8
+50% 13283.1
+75% 14270.8
+90% 15141.1
+95% 15539.8
+
+Writing result...OK
+Using ROOT: /scratch/work/user/mgolas/AntarexIT4I
+Probabilistic time-dependent routing
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 0 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 0 at 12:30
+Loading data...OK
+Elapsed time: 1545 ms
+Runnning simulation...used samples: 100
+sample dev: 1450.84  mean: 16538.7  variation coeff.: 0.0877237
+Percentiles: 
+5% 14415.1
+10% 14870.8
+25% 15714.6
+50% 16508.1
+75% 17381.7
+90% 18415.3
+95% 18754.9
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 1 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 1 at 12:30
+Loading data...OK
+Elapsed time: 1089 ms
+Runnning simulation...used samples: 100
+sample dev: 1454.36  mean: 16874  variation coeff.: 0.0861889
+Percentiles: 
+5% 14060.4
+10% 15000
+25% 15977.4
+50% 17071.3
+75% 17798.6
+90% 18598.7
+95% 19192.5
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 2 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 2 at 12:30
+Loading data...Using ROOT: /scratch/work/user/mgolas/AntarexIT4I
+Probabilistic time-dependent routing
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 0 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 0 at 12:30
+Loading data...OK
+Elapsed time: 6843 ms
+Runnning simulation...Using ROOT: /scratch/work/user/mgolas/AntarexIT4I
+Probabilistic time-dependent routing
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 0 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 0 at 12:30
+Loading data...OK
+Elapsed time: 1110 ms
+Runnning simulation...used samples: 100
+sample dev: 1337  mean: 16551.4  variation coeff.: 0.0807791
+Percentiles: 
+5% 14448.7
+10% 15014.9
+25% 15696.5
+50% 16752.3
+75% 17306.7
+90% 18201
+95% 18578.3
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 1 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 1 at 12:30
+Loading data...OK
+Elapsed time: 1084 ms
+Runnning simulation...used samples: 100
+sample dev: 1419.75  mean: 16921.2  variation coeff.: 0.0839037
+Percentiles: 
+5% 14227.5
+10% 15002.2
+25% 16080.3
+50% 16996.4
+75% 17764.7
+90% 18763.3
+95% 19273.7
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 2 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 2 at 12:30
+Loading data...OK
+Elapsed time: 1084 ms
+Runnning simulation...used samples: 100
+sample dev: 1501.46  mean: 16016.9  variation coeff.: 0.0937423
+Percentiles: 
+5% 13514
+10% 14258.2
+25% 15118.5
+50% 16265.1
+75% 17087.1
+90% 17802.7
+95% 18285.8
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 3 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 3 at 12:30
+Loading data...OK
+Elapsed time: 1089 ms
+Runnning simulation...used samples: 100
+sample dev: 1420.51  mean: 16222.3  variation coeff.: 0.0875654
+Percentiles: 
+5% 13593.3
+10% 14389.9
+25% 15413.8
+50% 16300.7
+75% 17141.1
+90% 17953.9
+95% 18528.2
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 4 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 4 at 12:30
+Loading data...OK
+Elapsed time: 1085 ms
+Runnning simulation...used samples: 100
+sample dev: 1283.42  mean: 16156.7  variation coeff.: 0.0794356
+Percentiles: 
+5% 14334.3
+10% 14722.5
+25% 15360.9
+50% 16071.5
+75% 17073.7
+90% 17925.2
+95% 18446.7
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 5 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 5 at 12:30
+Loading data...OK
+Elapsed time: 1078 ms
+Runnning simulation...used samples: 100
+sample dev: 1257.74  mean: 14192.3  variation coeff.: 0.0886214
+Percentiles: 
+5% 12214.8
+10% 12588.8
+25% 13347.8
+50% 14074.3
+75% 15170.6
+90% 15819.8
+95% 16151.4
+
+Writing result...OK
+Flags: -n 2500 -e /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv -p /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles -o probabilty_output.csv -d 6 -h 12 -m 30
+Threads: 4
+Samples: 2500
+Edges file: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//32526843_32548331_Dijkstra.csv
+Profiles directory: /scratch/work/user/mgolas/AntarexIT4I/ExampleData/Benchmark/dataset_accidents/example_simulation/32526843_32548331_Dijkstra//profiles
+Output file: probabilty_output.csv
+Compute optimal travel time: No
+Run all simulations: No
+Start day: 6 at 12:30
+Loading data...OK
+Elapsed time: 1083 ms
+Runnning simulation...used samples: 100
+sample dev: 1403.1  mean: 13269.4  variation coeff.: 0.10574
+Percentiles: 
+5% 10885
+10% 11487.8
+25% 12466.1
+50% 13361.6
+75% 14262.8
+90% 15087.7
+95% 15321.9
+
+Writing result...OK

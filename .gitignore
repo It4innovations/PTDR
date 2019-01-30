@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+margot_heel_if/
+margot_project/
+build/
+cmake-build-*/
+.idea/
