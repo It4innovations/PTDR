@@ -46,6 +46,8 @@ ptdr -n [number of samples] -e [edges_file.csv] -p [profiles directory] -o [outp
 	* -l: Compute optimal travel time
 	* -a: Compute for all week intervals (ignores start times)
 
+## Acknowledgement
+This work was supported by The Ministry of Education, Youth and Sports from the National Programme of Sustainability (NPU II) project ‘IT4Innovations excellence in science - LQ1602’, by the IT4Innovations infrastructure which is supported from the Large Infrastructures for Research, Experimental Development and Innovations project ‘IT4Innovations National Supercomputing Center – LM2015070’, and partially by ANTAREX, a project supported by the EU H2020 FET-HPC program under grant agreement  No. 671623.
 
 ## References
 - Silvano, C., Agosta, G., Bartolini, A., Beccari, A. R., Benini, L., Besnard, L., ... & Cherubin, S. (2018, August). ANTAREX: A DSL-based Approach to Adaptively Optimizing and Enforcing Extra-Functional Properties in High Performance Computing. In 2018 21st Euromicro Conference on Digital System Design (DSD) (pp. 600-607). IEEE.
