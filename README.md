@@ -1,5 +1,7 @@
 # Probability
-This directory contains source code of the Probabilistic Time-Dependent Routing with optional mArgot autotuner integration.
+This directory contains source code of the Probabilistic Time-Dependent Routing (PTDR) with optional mArgot autotuner integration.
+
+Check out our IEEE paper on Autotuning and PTDR: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8758945.
 
 ## Description and usage
 The binary provides two main functions. Monte Carlo simulation of travel time and computation of the so-called optimal travel time along the given path. The Monte Carlo mode is default, computation of optimal path is specified by the 'l' flag.
